@@ -17,9 +17,12 @@
   ],
   "author": "Jhon Alexander Lerma Becerra",
   "license": "MIT",
-  "type":"module",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/jhonlerma/curso-de-ecmascript/issues"
   },
-  "homepage": "https://github.com/jhonlerma/curso-de-ecmascript#readme"
+  "homepage": "https://github.com/jhonlerma/curso-de-ecmascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
